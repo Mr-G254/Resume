@@ -1,2 +1,2 @@
 # Resume
-![Resume](Screenshot202025-06-13%20103653.png)
+![Resume](Screenshot%2025-06-13%103653.png)
